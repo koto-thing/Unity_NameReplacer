@@ -1,0 +1,2 @@
+# Unity_NameReplacer
+オブジェクトの名前を一括で変更するスクリプト
